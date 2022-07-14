@@ -1,0 +1,68 @@
+.container{
+    background-color: rgb(50, 45, 45);
+    display: inline-block;
+    margin-left: 10%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.buy{
+    border: 1px solid rgb(238, 222, 222);
+    border-radius: 20px;
+    background-color: rgb(50, 45, 45);
+    
+    
+}
+.pay{
+    display: inline-block;
+ margin-right: 50px;
+ padding-left: 100px;
+    
+}
+.coin{
+    display: inline-block;
+    margin-left: 5px;
+    padding-right: 100px;
+}
+.inut{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    
+    
+}
+.buy1{
+    
+    border-radius: 2px;
+    background-color: rgb(50, 45, 45);
+    outline: none;
+margin-top: 1px ;}
+.connet{
+    display: inline-block;
+    background-color: rgb(132, 21, 224);
+    color: aliceblue;
+    font-weight: bold;
+    align-content: center;
+    padding: 15px;
+    margin-left: 80px;
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+    .inut img {
+        width: 20px;
+        margin-bottom: 0;
+        margin-top: 10px;
+        
+    }
+    
+
+    body {
+        
+    }
